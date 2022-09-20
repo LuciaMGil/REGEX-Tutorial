@@ -9,6 +9,8 @@ We will be using the following regex as an example:</br>
 
  `/^([a-z0-9_\.-]+)@([\da-z\.-]+)\.([a-z\.]{2,6})$/`
 
+Example of accepted email: </br>
+`lu_cia-22@gmail.net.ar`
 
 ## Table of Contents
 
@@ -63,7 +65,7 @@ The regex will also accept any number from 0-9 and any special character such as
 
 ## Character Escapes
 The `\` backslash is used to escape a special character that would otherwise be interpreted literally. </br>
-The backslash is used 3 times in our regex to escape the period. One example is in the first group `([a-z0-9_\.-]+)`.
+The backslash is used 3 times in our regex to escape the period. One example of this is in the first group `([a-z0-9_\.-]+)`.
 
 ## Author
 The tutorial was made by Lucia Gil.

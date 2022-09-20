@@ -3,7 +3,7 @@
 This tutorial will explain how regex can be used to match an email by discussing important concepts used in regular expressions and using examples.
 
 ## Summary
-Regular expressions are sequences of metacharacters, denoting a pattern. These patterns can be of various kinds: a mix of letters with digits, special characters and different language characters. One common way to use regex is to use it to identify if a use has entered something correctly in a form such as an email. 
+Regular expressions are sequences of metacharacters, denoting a pattern. These patterns can be of various kinds: a mix of letters with digits, special characters and different language characters. One common way to use regex is to use it to identify if a user has entered something correctly in a form such as an email. 
 
 We will be using the following regex as an example:</br>
 

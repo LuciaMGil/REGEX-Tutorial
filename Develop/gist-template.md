@@ -59,7 +59,7 @@ Anything inside the brackets `[]` represent the characters we want to match. </b
 The pattern does not require the string to follow every one of the requirements, it just shows which ones are accepted.</br>
 We can use the group `([a-z0-9_\.-]+)` as an example.
 Since regex is case sensitive this example shows that we want to match any lowercase letter from a-z. </br>
-The regex will also accept any number from 0-9 and any special character such as an underscore, backslash, period, or hyphen.</br>
+The regex will also accept any number from 0-9 and any special character such as an underscore, backslash, period, or hyphen.
 
 ## Character Escapes
 The `\` backslash is used to escape a special character that would otherwise be interpreted literally. </br>
